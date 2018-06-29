@@ -1,2 +1,2 @@
-## face detection
-#Simple face detection from webcam using opencv
+# face detection
+## Simple face detection from webcam using opencv
